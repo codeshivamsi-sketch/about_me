@@ -2,7 +2,6 @@
 
 Frontend-heavy Engineering Manager with 7+ years of experience, staying hands-on and sharpening my fundamentals along the way.
 
----
 
 ## Work
 
