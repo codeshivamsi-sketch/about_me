@@ -2,9 +2,6 @@
 
 I write code to keep experimenting & to keep my fundamentals fresh.
 
-
-## Work
-
 ### Agentic AI 
 **[Study Assistant AI](https://github.com/codeshivamsi-sketch/edu_mind_ai_study_assistance)** — An AI-powered study assistant built with RAG, Knowledge Graph, Multi-agent orchestration, and RAGAs evaluation. Upload a PDF curriculum and ask questions, generate quizzes, get evaluated, or get summaries — all grounded in your content.
 
